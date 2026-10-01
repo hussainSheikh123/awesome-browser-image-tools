@@ -23,6 +23,7 @@ All tools listed here process images client-side using Canvas API, WebAssembly, 
 | [Squoosh](https://squoosh.app/) | Google's image compression app. Single image, multiple codec options. | [Apache 2.0](https://github.com/GoogleChromeLabs/squoosh) |
 | [Compressor.io](https://compressor.io/) | Lossy and lossless compression. Single image at a time. | No |
 | [Browser Image Compression](https://github.com/nicholasjperry/browser-image-compression) | JavaScript library for client-side compression. | [MIT](https://github.com/nicholasjperry/browser-image-compression) |
+| [Piczilo](https://piczilo.com/) | Free browser-based image compression with target file-size tools, resizing, and format conversion. | No |
 
 ## Format Conversion
 
